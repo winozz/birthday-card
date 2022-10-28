@@ -213,7 +213,7 @@ background-size:100px 100px;
    display: none;
 }
 
-#error-msg{
+/* #error-msg{
   color: #EEEEEE;
   width: 100%;
   background-color: #E53935;
@@ -230,4 +230,4 @@ background-size:100px 100px;
     #error-msg{
       display: block;
     }
-}
+} */
